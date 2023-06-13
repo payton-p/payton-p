@@ -18,11 +18,11 @@
 <img src="https://komarev.com/ghpvc/?username=payton-p&style=flat-square&color=blue" alt=""/>
 -->
 
-### :information_source: About Me :
+### :information_source: About me:
 - :computer: I am a Lead Software Engineer working remotely. 
 - :orange_book: In my free time, I read textbooks and do code alongs.
 
-### :hammer_and_wrench: Languages and Tools :
+### :computer: Languages and tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -42,7 +42,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
+### :chart_with_upwards_trend: My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=payton-p&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=payton-p&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
