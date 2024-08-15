@@ -18,19 +18,19 @@
 <img src="https://komarev.com/ghpvc/?username=payton-p&style=flat-square&color=blue" alt=""/>
 -->
 
-### :information_source: About:
+### :information_source: About
 - :floppy_disk: Lead Software Engineer
 - :earth_americas: Work remotely
 - :orange_book: Most of my repos are code-alongs to textbooks
 <br><br>
 
-### :chart_with_upwards_trend: My stats:
+### :chart_with_upwards_trend: Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=payton-p&theme=default)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=payton-p&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
-### :computer: Experience:
+### :computer: Experience
 #### Languages/Libraries  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
