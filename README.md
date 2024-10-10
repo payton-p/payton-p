@@ -31,7 +31,7 @@
 <br><br>
 
 ### :computer: Experience
-#### Languages/Libraries  
+#### Languages / libraries  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
@@ -57,7 +57,7 @@
 </div>
 <br>
 
-#### Web/native development tools
+#### Frontend development tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" title="Yarn" alt="Yarn" width="40" height="40"/>&nbsp;
@@ -69,7 +69,7 @@
 </div>
 <br>
 
-#### Backend tools
+#### Backend development tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="Tomcat" alt="Tomcat" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="PuTTY" alt="PuTTY" width="40" height="40"/>&nbsp;
