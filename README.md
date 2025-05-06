@@ -25,8 +25,6 @@
 <br><br>
 
 ### :chart_with_upwards_trend: Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=payton-p&theme=default)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=payton-p&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
