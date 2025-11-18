@@ -20,8 +20,8 @@
 
 ### :information_source: About
 - :floppy_disk: Lead Software Engineer
-- :earth_americas: Work remotely
-- :orange_book: Most of my repos are code-alongs to textbooks or courses
+- :earth_americas: Remote work
+- :orange_book: Most of my repos are code-alongs to textbooks or courses, just for kicks
 <br><br>
 
 ### :chart_with_upwards_trend: Stats
@@ -61,23 +61,17 @@
 
 #### Build tools 
 <div>
-  Jenkins
-  Maven 
-  Ant 
+  Jenkins, Maven, Ant 
 </div>
 <br>
 
 #### Testing tools 
 <div>
-  Cypress 
-  Jest 
-  Postman 
+  Cypress, Jest, Postman 
 </div>
 <br>
 
 #### IDEs 
 <div>
-  Visual Studio Code
-  Eclipse 
-  PyCharm
+  Visual Studio Code, Eclipse, PyCharm
 </div>
